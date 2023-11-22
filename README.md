@@ -2,7 +2,7 @@
 Prueba técnica SOLATI
 
 
-PRUEBDA TECNICA SOLATI: PHP - DAO - SINGLETON - MVC - POSTGRESSQL
+PRUEBA TECNICA SOLATI: PHP - DAO - SINGLETON - MVC - POSTGRESSQL
 
 * credenciales de ingreso:
 usuario: 
