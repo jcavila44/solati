@@ -2,7 +2,7 @@
 //============================================================+
 // Carpeta: Controllers
 // Nombre del archivo   : logout.php
-// Inicio       : 2023-11-22       : 2021-11-04
+// Inicio       : 2023-11-22
 // Ultima actualizacion :
 //	
 // Description : controlador para manejar el logout de la app

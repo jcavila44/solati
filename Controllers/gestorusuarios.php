@@ -2,7 +2,7 @@
 //============================================================+
 // Carpeta: Controllers
 // Nombre del archivo   : gestorusuarios.php
-// Inicio       : 2023-11-22       : 2023-09-11
+// Inicio       : 2023-11-22
 // Ultima actualizacion :
 //
 // Description : controlador para manejar el Gestor de Usuarios de la app

@@ -2,7 +2,7 @@
 //============================================================+
 // Carpeta: Controllers
 // Nombre del archivo   : login.php
-// Inicio       : 2023-11-22       : 2021-09-11
+// Inicio       : 2023-11-22
 // Ultima actualizacion :
 //
 // Description : controlador para manejar todo lo relacionado al login de la app
@@ -31,10 +31,6 @@ class Login
 		$this->views = new Views();
 		if (isset($_SESSION['login']) || isset($_SESSION["LoginTime"])) {
 			header('Location: ' . base_url() . 'home');
-		} else {
-			if (isset($_SESSION['ForgotEmailSended']) && $_SESSION['ForgotEmailSended'] == 1) {
-				header('Location: ' . base_url() . 'login/emailSendForgotPassword?e=' . $_SESSION['emailUser']);
-			}
 		}
 	}
 
