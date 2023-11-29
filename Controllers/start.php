@@ -2,7 +2,7 @@
 //============================================================+
 // Carpeta: Controllers
 // Nombre del archivo   : start.php
-// Inicio       : 2023-11-22       : 2021-09-11
+// Inicio       : 2023-11-22
 // Ultima actualizacion :
 //
 // Description : controlador para manejar el inicio de la app
