@@ -9,7 +9,7 @@ class UsuarioDAO
         $this->db = Connection::getInstance()->connect();
     }
 
-    public function obtenerUsuarioPorId()
+    public function obtenerUsuarios()
     {
         $query = " 
             SELECT 
