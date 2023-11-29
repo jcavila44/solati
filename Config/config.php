@@ -19,7 +19,7 @@ const DB_DRIVER = "pgsql";
 
 const MAIL_HOST       = 'smtp.office365.com';
 const MAIL_SMTPAUTH   = true;
-const MAIL_NAME_USER  = 'Uniajc-Maps';
+const MAIL_NAME_USER  = '';
 const MAIL_EMAIL      = '';
 const MAIL_PASSWORD   = '';
 const MAIL_SMTPSECURE = 'tls';
