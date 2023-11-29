@@ -44,7 +44,7 @@ class GestorUsuarios
 		if ($_SERVER['REQUEST_METHOD'] == 'GET') {
 
 			$usuarioDAO = new UsuarioDAO();
-			$arrData = $usuarioDAO->obtenerUsuarioPorId();
+			$arrData = $usuarioDAO->obtenerUsuarios();
 
 			$arrRespuesta = array('status' => 'success', 'data' => $arrData);
 		} else {
